@@ -1,4 +1,4 @@
-package DynamicProgramming;
+package DynamicProgramming.Knapsack01;
 //Dynamic Programming Top Down 
 
 public class LongestCommonSubsequenceDP {

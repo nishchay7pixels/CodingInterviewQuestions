@@ -1,5 +1,5 @@
 //Recursive solution with memoisation
-package DynamicProgramming;
+package DynamicProgramming.Knapsack01;
 
 public class LongestCommonSubsequence {
     static int [][]memo = new int[1000][1000];
