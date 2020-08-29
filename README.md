@@ -1,4 +1,4 @@
-# CodingInterviewQuestions
+# Coding Interview Questions
 
 ## DynamicProgrammingList
  1. Knapsack Problem 0-1 - and related
